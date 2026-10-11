@@ -1,4 +1,4 @@
-## Hi I;m Adrian
+## Hi I'm Adrian
 
 I'm a Computer Science student at Gdańsk University of Technology and I'm currently looking for my first internship. I mainly build web applications, but after hours I also like to tinker with lower-level programming.
 
